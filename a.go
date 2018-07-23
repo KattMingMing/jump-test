@@ -3,6 +3,7 @@ package jump
 func aaaaaaaaaa() {
 	bbbbbbbbbb()
 	cccccccccc()
+	ffffffffffff()
 }
 
 /*
@@ -10,6 +11,14 @@ func aaaaaaaaaa() {
  */
 func eeeeeeeeeeeeee() {
 	bbbbbbbbbb()
+	cccccccccc()
+}
+
+/*
+ * does something else.
+ */
+func ffffffffffff() {
+	eeeeeeeeeeeeee()
 	cccccccccc()
 }
 
