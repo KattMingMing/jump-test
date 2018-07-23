@@ -5,6 +5,14 @@ func aaaaaaaaaa() {
 	cccccccccc()
 }
 
+/*
+ * does something.
+ */
+func eeeeeeeeeeeeee() {
+	bbbbbbbbbb()
+	cccccccccc()
+}
+
 //
 //
 //
@@ -59,6 +67,7 @@ func aaaaaaaaaa() {
 //
 
 func AAAAAAAAAA() {
+	eeeeeeeeeeeeee()
 	BBBBBBBBBB()
 	CCCCCCCCCC()
 }
