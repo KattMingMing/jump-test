@@ -1,5 +1,10 @@
 package jump
 
+func ddddddddd() {
+	bbbbbbbbbb()
+	AAAAAAAAAA()
+}
+
 func aaaaaaaaaa() {
 	bbbbbbbbbb()
 	cccccccccc()
